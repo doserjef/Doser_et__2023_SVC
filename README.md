@@ -1,10 +1,8 @@
 # Guidelines for the use of spatially-varying coefficients in species distribution models
 
-### In Review
-
 ### Jeffrey W. Doser, Marc K&eacute;ry, Sarah P. Saunders, Andrew O. Finley, Brooke L. Bateman, Joanna Grand, Shannon Reault, Aaron S. Weed, Elise F. Zipkin
 
-### spOccupancy Package [Website](https://www.jeffdoser.com/files/spoccupancy-web/) and [Repository](https://github.com/doserjef/spOccupancy/)
+### Global Ecology and Biogeography
 
 ### Please contact the first author for questions about the code or data used in the manuscript: Jeffrey W. Doser (doserjef@msu.edu)
 
@@ -14,7 +12,7 @@
 
 ###  Aim 
 
-Species distribution models (SDMs) are increasingly applied across macroscales using detection-nondetection data. Such models typically assume that a single set of regression coefficients can adequately describe species-environment relationships and/or population trends. However, such relationships often show nonlinear and/or spatially-varying patterns that arise from complex interactions with abiotic and biotic processes that operate at different scales. Spatially-varying coefficient (SVC) models can readily account for variability in the effects of environmental covariates. Yet, their use in ecology is relatively scarce due to gaps in understanding the inferential benefits that SVC models can provide compared to simpler frameworks.
+Species distribution models (SDMs) are increasingly applied across macroscales using detection-nondetection data. These models typically assume that a single set of regression coefficients can adequately describe species-environment relationships and/or population trends. However, such relationships often show nonlinear and/or spatially-varying patterns that arise from complex interactions with abiotic and biotic processes that operate at different scales. Spatially-varying coefficient (SVC) models can readily account for variability in the effects of environmental covariates. Yet, their use in ecology is relatively scarce due to gaps in understanding the inferential benefits that SVC models can provide compared to simpler frameworks.
 
 ### Innovation
 
