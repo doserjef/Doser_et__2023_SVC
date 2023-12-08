@@ -2,6 +2,7 @@
 #                        cover covariates across the continental US from 
 #                        USGS EROS for use in predicting effects of land cover
 #                        change on Grasshopper Sparrow across the US.
+# Author: Jeffrey W. Doser
 rm(list = ls())
 library(tidyverse)
 library(stars)

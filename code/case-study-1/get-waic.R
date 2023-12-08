@@ -1,6 +1,7 @@
 # get-waic.R: script to extract the WAIC from each of the four candidate
 #             models for each species. This avoids having to read in the 
 #             spOccupancy model object every time to calculate WAIC.
+# Author: Jeffrey W. Doser
 rm(list = ls())
 library(spOccupancy)
 
