@@ -4,6 +4,8 @@
 
 ### Global Ecology and Biogeography
 
+### Code/Data DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10294522.svg)](https://doi.org/10.5281/zenodo.10294522)
+
 ### Please contact the first author for questions about the code or data used in the manuscript: Jeffrey W. Doser (doserjef@msu.edu)
 
 ---------------------------------
